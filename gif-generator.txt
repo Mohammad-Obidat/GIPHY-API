@@ -1,0 +1,10 @@
+Exercise 5
+
+Continuing from Exercise 4, instead of making a hard-coded request for cats, 
+add an input to your web page, with a simple button. When you press the button, 
+you should get whatever is in the input, and use that to search for gifs using the GIPHY API.
+
+Display the first gif below the input box.
+Ultimately, it should look something like this:
+
+Congratulations, you’ve made a simple gif generator =]
